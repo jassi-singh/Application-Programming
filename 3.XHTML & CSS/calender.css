@@ -1,0 +1,15 @@
+#year
+{
+    font-size: 200%;
+    color: #ff3737;
+    text-align: center;
+    padding-bottom: 0;
+}
+.main
+{
+    align-content: center;
+}
+.mnth:hover
+{
+    background: #bbffef73;
+}
